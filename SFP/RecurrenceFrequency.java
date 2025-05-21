@@ -1,0 +1,25 @@
+package SFP;
+
+public enum RecurrenceFrequency {
+    NULL,
+    DAILY,
+    WEEKLY,
+    MONTHLY,
+    TWOMONTHSPAN,
+    THREEMONTHSPAN,
+    SIXMONTHSPAN,
+    NINEMONTHSPAN,
+    YEARLY;
+}
+
+/**
+ * NULL
+ * DAILY
+ * WEEKLY
+ * MONTHLY
+ * TWOMONTHSPAN
+ * THREEMONTHSPAN
+ * SIXMONTHSPAN
+ * NINEMONTHSPAN
+ * YEARLY
+*/
